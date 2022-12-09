@@ -1,0 +1,19 @@
+To renew your cert https://learn.microsoft.com/en-us/certifications/azure-administrator/renew/
+MS official training https://learn.microsoft.com/en-us/certifications/exams/az-104
+
+
+SPECIFIC THINGS TO LEARN
+Shared Access Signature SAS
+Type of DNS recors, NS, A, TXT and PTR
+You need a new subnet to implement Azure Bastion Host
+The Recovery Services vault and the virtual machine need to be in the same region
+
+Thank you for the Demo Martin!
+
+
+Manage Azure identities and governance
+Implement and manage storage
+Deploy and manage Azure compute resources
+Configure and manage virtual networking
+Monitor and back up Azure resources
+
